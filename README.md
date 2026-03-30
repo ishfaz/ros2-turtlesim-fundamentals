@@ -6,7 +6,7 @@ A ROS2 project built on top of turtlesim where turtle1 autonomously hunts and ca
 
 ## Demo
 
-https://github.com/user-attachments/assets/98620b62-f017-4afa-b7da-0a6d2b1d7b17
+https://github.com/user-attachments/assets/66405279-6ec8-4829-8122-eb4ca280ba5e
 
 ---
 
